@@ -1,0 +1,19 @@
+# Ignore everything by default
+*
+
+# Allow phase folders
+!PHASE-1/
+!PHASE-1/**
+
+!PHASE-2/
+!PHASE-2/**
+
+!PHASE-3/
+!PHASE-3/**
+
+# Explicitly ignore Project
+Project/
+
+# Allow git files
+!.gitignore
+README.md
