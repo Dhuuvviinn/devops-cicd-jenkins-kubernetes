@@ -1,5 +1,7 @@
 # BoardGame – End-to-End DevOps CI/CD Project
 
+![DevOps CI/CD Pipeline](IMAGES/devops-cicd-jenkins-k8s-aws.png)
+
 Production-grade CI/CD pipeline for a Java application using Jenkins, Docker, Kubernetes, AWS, and full monitoring with Prometheus & Grafana.
 
 ---
